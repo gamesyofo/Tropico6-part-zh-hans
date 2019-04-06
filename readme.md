@@ -6,7 +6,6 @@
 
 > `pakchunkEN_TXT-WindowsNoEditor.pak` 为游戏汉化，复制到游戏 `(Tropico 6\Tropico6\Content\Paks)` 中覆盖即可食用  
 > `(Game/en)` 是目前提取的汉化文本  
-> 游戏文本源文件在对应目录中，相应版本中有上传提取的英文文本  
 
 > **游戏升级v1.01：**  
 > 将游戏源文件v1.0中的文件覆盖后，选择v1.01升级档升级，完成后再将 `(Tropico6-part-zh-hans\pakchunkEN_TXT-WindowsNoEditor.pak)` 汉化文件覆盖游戏源文件  
