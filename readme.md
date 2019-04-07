@@ -14,7 +14,7 @@
 > **v1.0和v1.01是游戏源文件。**  
 > **（建议备份一份游戏源文件，以防后期意外发生，概不负责）**  
 
-> ** 项目转移 https://paratranz.cn/projects/310
+> 项目转移 https://paratranz.cn/projects/310
 
 ***
 
