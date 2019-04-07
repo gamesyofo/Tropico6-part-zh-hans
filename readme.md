@@ -1,8 +1,6 @@
 ## 加入汉化
 访问 https://paratranz.cn/projects/310 , 申请加入项目后即可
 
-***
-
 ## 使用方法
 下载 
 `pakchunkEN_TXT-WindowsNoEditor.pak` （需选择英文语言）
@@ -10,16 +8,12 @@
 `pakchunkZH-HANS_TXT-WindowsNoEditor.pak`（需选择中文语言）
 覆盖至游戏目录 `Tropico 6\Tropico6\Content\Paks` 中
 
-***
-
 ## 注意事项
 当前版本仅支持 1.01，请先升级后再使用，否则会导致乱码
 
 > 基于3dm汉化v4.5修改
 > 游戏实际情况汉化非英文直接翻译  
 > **由于有中文语音，有语音部分会使用官方汉化**  
-
-***
 
 ## 版本
 
