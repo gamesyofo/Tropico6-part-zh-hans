@@ -2,11 +2,16 @@
 访问 https://paratranz.cn/projects/310 , 申请加入项目后即可
 
 ## 使用方法
-下载 
-`pakchunkEN_TXT-WindowsNoEditor.pak` （需选择英文语言）
-或 
-`pakchunkZH-HANS_TXT-WindowsNoEditor.pak`（需选择中文语言）
-覆盖至游戏目录 `Tropico 6\Tropico6\Content\Paks` 中
+下载以下两个文件，覆盖至游戏目录的 `Tropico 6\Tropico6\Content\Paks` 中
+
+[pakchunkEN_TXT-WindowsNoEditor.pak](https://github.com/gamesyofo/Tropico6-part-zh-hans/blob/master/pakchunkEN_TXT-WindowsNoEditor.pak)
+
+[pakchunkZH-HANS_TXT-WindowsNoEditor.pak](https://github.com/gamesyofo/Tropico6-part-zh-hans/blob/master/pakchunkZH-HANS_TXT-WindowsNoEditor.pak)
+
+### 字体选择
+
+- 如需要3DM字体，请在游戏设置中选择英语。
+- 如需官方字体，请在游戏设置中选择中文。
 
 ## 注意事项
 当前版本仅支持 1.01，请先升级后再使用，否则会导致乱码
