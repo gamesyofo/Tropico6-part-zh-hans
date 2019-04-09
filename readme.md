@@ -9,7 +9,7 @@ QQ群号：**444160790**
 下载以下两个文件，覆盖至游戏目录的 `Tropico 6\Tropico6\Content\Paks` 中
 - [pakchunkEN_TXT-WindowsNoEditor.pak](https://github.com/gamesyofo/Tropico6-part-zh-hans/blob/master/pakchunkEN_TXT-WindowsNoEditor.pak)
 - [pakchunkZH-HANS_TXT-WindowsNoEditor.pak](https://github.com/gamesyofo/Tropico6-part-zh-hans/blob/master/pakchunkZH-HANS_TXT-WindowsNoEditor.pak)
-- 由于上传了[中文语音包](https://github.com/gamesyofo/Tropico6-part-zh-hans/blob/master/中文语音包/pakchunkZH_VO-WindowsNoEditor.pak)（1.17 GB），请选中相应文件点进去后找到download下载
+- 由于上传了[中文语音包](https://github.com/gamesyofo/Tropico6-part-zh-hans/blob/master/中文语音包/pakchunkZH_VO-WindowsNoEditor.pak)（1.17 GB），请选中相应文件点进去后找到download下载(存放目录同汉化文件一样的位置)
 
 ### 字体选择
 
@@ -24,6 +24,10 @@ QQ群号：**444160790**
 > **由于有中文语音，有语音部分会使用官方汉化**  
 
 ## 版本
+
+#### v4.6.2
+- 修正部分文本
+- 统一部分名词称呼
 
 #### v4.6.1
 - 修正部分文本
