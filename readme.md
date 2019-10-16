@@ -1,10 +1,13 @@
-## 加入汉化
-访问 https://paratranz.cn/projects/310 , 申请加入项目后即可  
-请汉化成员加入工作组  
-QQ群号：**444160790**  
-申请加群时请备注平台用户名，进群后将群名片改成平台用户名。
+## 汉化
+
+访问 https://paratranz.cn/projects/310 
 
 ## 使用方法
+
+[release](https://github.com/gamesyofo/Tropico6-part-zh-hans/releases)选择最新版本下载
+
+> 或者
+
 下载以下两个文件，覆盖至游戏目录的 `Tropico 6\Tropico6\Content\Paks` 中
 - [pakchunkEN_TXT-WindowsNoEditor.pak](https://github.com/gamesyofo/Tropico6-part-zh-hans/blob/master/pakchunkEN_TXT-WindowsNoEditor.pak)
 - [pakchunkZH-HANS_TXT-WindowsNoEditor.pak](https://github.com/gamesyofo/Tropico6-part-zh-hans/blob/master/pakchunkZH-HANS_TXT-WindowsNoEditor.pak)
@@ -12,17 +15,22 @@ QQ群号：**444160790**
 
 ### 字体选择
 
-- 如需要3DM字体，请在游戏设置中选择英语。
-- 如需官方字体，请在游戏设置中选择中文。
+- 黑体字体，请在游戏设置中选择英语。
+- 宋体字体，请在游戏设置中选择中文。
 
 ## 注意事项
-当前版本仅支持 1.01，请先升级后再使用，否则会导致乱码
+当前版本仅支持 1.06，请升级后使用，其他版本看脸吧
+如需其他版本，[release](https://github.com/gamesyofo/Tropico6-part-zh-hans/releases)页面选择相应版本
 
 > 基于3dm汉化v4.5修改
-> 游戏实际情况汉化非英文直接翻译  
 > **由于有中文语音，有语音部分会使用官方汉化**  
 
 ## 版本
+
+### 1.06v20191017
+- 支持游戏1.06版本
+- 更新1.06文本
+- 润色部分文本
 
 ### v20190419
 - 更换版本命名，以更新日期为主
@@ -55,4 +63,4 @@ QQ群号：**444160790**
 
 ## 感谢
 
-[3dm论坛《海岛大亨6》](http://bbs.3dmgame.com/thread-5870339-1-1.html)和[海岛大亨吧](https://tieba.baidu.com/p/6090367810)提建议的朋友
+[3dm论坛《海岛大亨6》](http://bbs.3dmgame.com/thread-5870339-1-1.html)提建议的朋友
