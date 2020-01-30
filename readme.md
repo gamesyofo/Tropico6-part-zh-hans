@@ -10,6 +10,10 @@
 - [pakchunkZH-HANS_TXT-WindowsNoEditor.pak](https://github.com/gamesyofo/Tropico6-part-zh-hans/blob/master/pakchunkZH-HANS_TXT-WindowsNoEditor.pak)
 - [中文语音包（1GB）4个包](https://github.com/gamesyofo/Tropico6-part-zh-hans/releases/tag/v1.06voice)
 
+## 自行汉化
+
+可下载 [tropico6-toolkit.7z](https://github.com/gamesyofo/Tropico6-part-zh-hans/blob/master/tropico6-toolkit.7z) 工具包，里面包含详细的解包及打包教程
+
 ## 字体选择
 
 - 黑体字体，请在游戏设置中选择英语。
